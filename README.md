@@ -1,5 +1,5 @@
 # CrateUI
-CrateUI Plugin per ItalianRealms (Privato)
+CrateUI Plugin principalmente creato per ItalianRealms.
 
 # TODO
 [ ] Config
