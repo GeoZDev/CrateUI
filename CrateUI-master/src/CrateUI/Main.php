@@ -22,11 +22,11 @@ class Main extends PluginBase{
 	
 	public function onEnable(){
 		$this->getServer()->getCommandMap()->register("getkey", new Commands\getkey());
-		$this->getLogger()->info("§aEnabled.");
+		$this->getLogger()->info("§aAbilitato.");
 	}
 	
 	public function onDisable(){
-	    $this->getLogger()->info("§cDisabled.");
+	    $this->getLogger()->info("§cDisabilitato.");
 	}
 
 	public function onCommand(CommandSender $sender, Command $cmd, string $label, array $args): bool{
