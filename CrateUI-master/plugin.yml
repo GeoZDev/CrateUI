@@ -1,13 +1,12 @@
 name: CrateUI
 main: CrateUI\Main
-api: [3.0.0-ALPHA9, 3.0.0-ALPHA10]
+api: [3.0.0]
 version: 1.0
-author: GeoZDev
+author: GeoZDev, PiyushBest
 
 commands:
  crate:
-  description: "Apri la GUI delle crates! by GeoZDev"
-
+  description: "Crate Time
 permissions:
  crate.key:
   description: "get key permission"
